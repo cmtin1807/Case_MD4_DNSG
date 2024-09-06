@@ -38,6 +38,6 @@ public class Booking {
     @UpdateTimestamp
     private LocalDateTime updatedAt;
 
-    // Constructors, getters and setters
+
 }
 
